@@ -1,0 +1,266 @@
+.card{
+    width: 200px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(234, 255, 47);
+    border-radius: 10px;
+    font-family: sans-serif;
+    color: rgb(153, 0, 255);
+}
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(155, 128, 226);
+}
+.box{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 900;
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+    margin-top: 70px;
+    width: 1200px;
+    height: 540px;
+}
+.div1{
+    box-shadow: 0px 0px 20px rgb(46, 46, 46);
+    text-align: center;
+    border-radius: 25px;
+    width: 31.5%;
+    height: 100%;
+    background-color: rgb(15, 15, 15);
+}
+.div2{
+    box-shadow: 0px 0px 20px rgb(46, 46, 46);
+    text-align: center;
+    border-radius: 25px;
+    width: 31.5%;
+    height: 100%;
+    background-color: rgb(15, 15, 15);
+}
+.div3{
+    box-shadow: 0px 0px 20px rgb(46, 46, 46);
+    text-align: center;
+    border-radius: 25px;
+    width: 31.5%;
+    height: 100%;
+    background-color: rgb(15, 15, 15);
+}
+.saitico1{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    width: 190px;
+}
+.saitico2{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    width: 190px;
+}
+.saitico3{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    width: 190px;
+}
+.fa-brands,
+.fa-facebook{
+    color: #ec9fff;
+    font-size: 30px;
+    cursor: pointer;
+}
+.fa-brands:hover{
+    color: #ffffff;
+    font-size: 30px;
+}
+.img1{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    border-radius: 20px;
+    border: 10px double rgb(153, 0, 255);
+
+}
+.img2{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    border-radius: 20px;
+    border: 10px double rgb(153, 0, 255);
+}
+.img3{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    border-radius: 20px;
+    border: 10px double rgb(153, 0, 255);
+}
+.img1:hover{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    border-radius: 10px;
+    transition: 0.5s;
+    border: 10px double rgb(255, 255, 255);
+
+}
+.img2:hover{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    border-radius: 10px;
+    transition: 0.5s;
+    border: 10px double rgb(255, 255, 255);
+}
+.img3:hover{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 60%;
+    height: 40%;
+    border-radius: 10px;
+    transition: 0.5s;
+    border: 10px double rgb(255, 255, 255);
+}
+.name1{
+    margin-top: 20px;
+}
+.name2{
+    margin-top: 20px;
+}
+.name3{
+    margin-top: 20px;
+}
+.job1{
+    margin-top: 15px;
+}
+.job2{
+    margin-top: 15px;
+}
+.job3{
+    margin-top: 15px;
+}
+.fa-regular,
+.fa-star{
+    margin-top: 10px;
+    padding: 0px 5px;
+    color: #f6d1ff;
+    font-size: 30px;
+    cursor: pointer;
+}
+.but1{
+    margin: auto;
+    width: 270px;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    color: white;
+}
+.bt1{
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(203, 94, 253);
+}
+.bt2{
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(203, 94, 253);
+}
+.bt3{
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(203, 94, 253);
+}
+.bt4{
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(203, 94, 253);
+}
+.bt5{
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(203, 94, 253);
+}
+.bt6{
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(203, 94, 253);
+}
+.bt1:hover{
+    color: purple;
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(240, 208, 255);
+    cursor: pointer;
+}
+.bt2:hover{
+    color: purple;
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(240, 208, 255);
+    cursor: pointer;
+}
+.bt3:hover{
+    color: purple;
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(240, 208, 255);
+    cursor: pointer;
+}
+.bt4:hover{
+    color: purple;
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(240, 208, 255);
+    cursor: pointer;
+}
+.bt5:hover{
+    color: purple;
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(240, 208, 255);
+    cursor: pointer;
+}
+.bt6:hover{
+    color: purple;
+    padding: 5px 10px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    background-color: rgb(240, 208, 255);
+    cursor: pointer;
+}
